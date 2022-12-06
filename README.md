@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiaojieguo
-- 👀 I’m interested in medical image analysis, computer vision, deep learning, SLAM.
+- 👀 I’m interested in medical image segmentation, medical image registration, computer vision, deep learning, SLAM.
 
 <!---
 xiaojieguo/xiaojieguo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
